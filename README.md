@@ -5,7 +5,7 @@ Rafael J. Garcia 👋✌🚀
 
 - 🔭 I’m currently working on Tecnology Information area facing to hardware.<br><br>
 
-- 🌱 I’m currently learning more about the PHP and the frameworks around the same.<br><br>
+- 🌱 I’m also currently learning more about the PHP and the frameworks around the same.<br><br>
 
 - 📫 I'm 28 years old and always liked tecnology, but only it was after meeting developer area that I was really interested. I like new challenges and I'm very excited when I reach a goal, whether personal or professional.<br><br>
 
